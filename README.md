@@ -1,4 +1,4 @@
-## Olá, seja bem vindo! Eu sou o Hernandez Rosa, entusiasta de tecnologia!
+## Olá, seja bem vindo! Eu sou o Hernandez Rosa, artista plástico e entusiasta de tecnologia!
 <div align="center">
   <a href="https://github.com/Hernandez-Rosa-Holanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hernandez-Rosa-Holanda&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
