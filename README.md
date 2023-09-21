@@ -1,4 +1,4 @@
-## Olá, seja bem vindo! Eu sou o Hernandez Rosa, artista plástico e entusiasta de tecnologia! 
+## Olá, seja bem vindo! Eu sou o Hernandez Rosa de Holanda, artista plástico e entusiasta de tecnologia! 
 Tenho 28 anos e resido na cidade de São Paulo, atualmente estou trabalhando no Google como Analista de Desenvolvimento de Sistemas.
 
 <div align="center">
