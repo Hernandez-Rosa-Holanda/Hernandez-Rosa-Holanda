@@ -1,4 +1,6 @@
-## Olá, seja bem vindo! Eu sou o Hernandez Rosa, artista plástico e entusiasta de tecnologia!
+## Olá, seja bem vindo! Eu sou o Hernandez Rosa, artista plástico e entusiasta de tecnologia! 
+Tenho 28 anos e resido na cidade de São Paulo, atualmente estou trabalhando no Google como Analista de Desenvolvimento de Sistemas.
+
 <div align="center">
   <a href="https://github.com/Hernandez-Rosa-Holanda">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hernandez-Rosa-Holanda&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
