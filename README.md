@@ -4,8 +4,7 @@ Tenho 28 anos e resido na cidade de São Paulo, atualmente estou trabalhando no 
 <div align="center">
   <a href="https://github.com/Hernandez-Rosa-Holanda">
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hernandez-Rosa-Holanda&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hernandez-Rosa-Holanda&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
-
+ 
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="hh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
